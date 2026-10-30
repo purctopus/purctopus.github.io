@@ -1,0 +1,42 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.2
+2 info using node@v25.2.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\scpmo\Documents\ChatGPT\github.io\.npmrc
+5 silly config load:file:C:\Users\scpmo\.npmrc
+6 silly config load:file:C:\Users\scpmo\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--ignore-scripts" "--no-audit" "--no-fund" "--cache" ".migration-cache/npm"
+9 verbose logfile logs-max:10 dir:C:\Users\scpmo\Documents\ChatGPT\github.io\.migration-cache\npm\_logs\2026-10-30T13_07_52_258Z-
+10 verbose logfile C:\Users\scpmo\Documents\ChatGPT\github.io\.migration-cache\npm\_logs\2026-10-30T13_07_52_258Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly fetch manifest linkedom@0.18.12
+15 silly packumentCache full:https://registry.npmjs.org/linkedom cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/linkedom 2042ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/linkedom set size:undefined disposed:false
+18 silly fetch manifest canvas@>= 2
+19 silly packumentCache full:https://registry.npmjs.org/canvas cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/canvas 329ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/canvas set size:undefined disposed:false
+22 silly placeDep ROOT linkedom@0.18.12 OK for:  want: 0.18.12
+23 silly fetch manifest cssom@^0.5.0
+24 silly packumentCache full:https://registry.npmjs.org/cssom cache-miss
+25 silly fetch manifest uhyphen@^0.2.0
+26 silly packumentCache full:https://registry.npmjs.org/uhyphen cache-miss
+27 silly fetch manifest css-select@^5.1.0
+28 silly packumentCache full:https://registry.npmjs.org/css-select cache-miss
+29 silly fetch manifest htmlparser2@^10.0.0
+30 silly packumentCache full:https://registry.npmjs.org/htmlparser2 cache-miss
+31 silly fetch manifest html-escaper@^3.0.3
+32 silly packumentCache full:https://registry.npmjs.org/html-escaper cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/uhyphen 281ms (cache miss)
+34 silly packumentCache full:https://registry.npmjs.org/uhyphen set size:undefined disposed:false
+35 http fetch GET 200 https://registry.npmjs.org/npm 3942ms
+36 http fetch GET 200 https://registry.npmjs.org/cssom 1628ms (cache miss)
+37 silly packumentCache full:https://registry.npmjs.org/cssom set size:undefined disposed:false
+38 http fetch GET 200 https://registry.npmjs.org/css-select 2456ms (cache miss)
+39 silly packumentCache full:https://registry.npmjs.org/css-select set size:undefined disposed:false
+40 http fetch GET 200 https://registry.npmjs.org/htmlparser2 3638ms (cache miss)
+41 silly packumentCache full:https://registry.npmjs.org/htmlparser2 set size:undefined disposed:false

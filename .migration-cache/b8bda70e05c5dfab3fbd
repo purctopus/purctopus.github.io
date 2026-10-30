@@ -1,0 +1,434 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cn" lang="cn">
+
+<head>
+    <title>无机质 - 绿帽社</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "greenhat.wikidot.com";
+        WIKIREQUEST.info.siteId = 4600797;
+        WIKIREQUEST.info.siteUnixName = "greenhat";
+        WIKIREQUEST.info.categoryId = 45992847;
+        WIKIREQUEST.info.themeId = 8180194;
+        WIKIREQUEST.info.requestPageName = "zihai:wujizhi";
+        OZONE.request.timestamp = 1793365843;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'cn';
+                WIKIREQUEST.info.pageUnixName = "zihai:wujizhi";
+        WIKIREQUEST.info.pageId = 1467445201;
+                        WIKIREQUEST.info.lang = "cn";
+        OZONE.lang = "cn";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="cn"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--theme/base/css/style.css);
+                    @import url(https://greenhat.wdfiles.com/local--theme/sigma-9/style.css);
+            </style>
+    
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/misc/NewPageHelperModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>绿帽社</span></a></h1>
+                
+                    <h2><span>青青子衿，悠悠我心</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="搜索网站" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="搜索"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<ul>
+<li><a href="/archive-center">档案馆</a>
+<ul>
+<li><a href="/greenhat-history">绿帽史</a></li>
+<li><a href="/guozhongmishi">国中秘史</a></li>
+<li><a href="/choujing">丑经</a></li>
+<li><a href="/other-classified-archives-center">其他</a></li>
+</ul>
+</li>
+<li><a href="/columns">专栏</a>
+<ul>
+<li><a href="/zihai-archive">紫海流华</a></li>
+</ul>
+</li>
+<li><a href="/nav:top">进入顶栏</a></li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">建立账户</a> <span>或</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">登入</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<h1 ><span><span style="font-size:smaller;">创建新页面</span></span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="创建" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+<p><em><br /></em></p>
+<div class="side-block">
+<ul>
+<li><img src="http://greenhat.wikidot.com/local--files/private-images/home.png" alt="home.png" class="image" /> <strong><a href="/start">绿帽社主页</a></strong></li>
+</ul>
+<ul>
+<li><a href="/tagcloud">标签云</a></li>
+<li><a href="/forum:start">唠嗑区</a></li>
+</ul>
+<p><em><br /></em></p>
+<ul>
+<li><a href="/nav:side">进入侧栏</a></li>
+<li><a href="/_admin">管理</a> - 闲人免进</li>
+<li><a href="http://ifrasite66.wikidot.com">IFRA</a> - 直接进入</li>
+<li><a href="/yiwuzhi">异物志</a> - 嘉中传说</li>
+</ul>
+</div>
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            无机质
+                        </div>
+                    
+
+                    
+                        <div id="breadcrumbs">
+                            <a href="/zihai-archive">紫海流华中心页</a> &raquo; <a href="/zihai:sector-2">扇区二 · 暮光带</a> &raquo; 无机质
+                        </div>
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+<p>凌晨三点。</p>
+<p>中环南路的霓虹下，零星闪过几辆车。初冬的夜风迎面刮来，将我没拉紧的冲锋衣轻巧地掀开一个角。绿灯的信号出现在人行道的尽头，住宅楼楼顶的红点依然不停地亮着又灭着。一颗澄黄的圆月，正悄悄地从高楼后面，探出半个身子来。</p>
+<p>我向右看去。紫海一中的橙色围墙，在路灯的滤镜下，反射出更浓厚的色泽。墙的另一侧是标准的四百米操场，浅红褪色的橡胶地面上，留着一片又一片暗红色的未干水印，草地上两个球门孤零零地伫立着。除了围墙和主席台的另外两侧，全部用深绿色的铁丝网拦得严严实实。</p>
+<p>再远处，是一幢用与围墙同样的材料搭建起来的教学楼。学校里不亮灯，路灯只能照出一个模糊的深灰色轮廓。西风越发大起来，将我的衣衫猛地往东边拽，似乎要将我本就脆弱的躯体一同侵蚀掉。我狼狈地捂紧外衣，匆匆向下一个绿灯的方向赶去，只给沉睡中的紫海一中留下最后的一瞥。</p>
+<p>很快，这个世界就要失去所有的颜色。</p>
+<p>风渐渐缓下来。汽车疾驰的轰鸣，环境的底噪，乃至我双脚的踩踏声，全部忠诚地随着风的节奏，一拍又一拍，低下来，低下来，低下来。常绿的树叶刹那间枯黄，红色的灯牌一盏盏熄灭，所有的光线在一种绝望的威压下，无声无息地往长波的方向挪移。</p>
+<p>紫，蓝，青，绿，黄，橙，赤。</p>
+<p>整个世界的关机程序，终止在一切紫外光都变为红外的时候。在宇宙射线的最后一丝微光下，我摸向自己的衣角，它还在以一个恒定的角度，于空中悬停着。</p>
+<p>我无数次在梦中如这般遐想，仿佛一个造物主，在自己只身构建的尘世中惬意地闲游。我曾见过紫海的日月轮转，山水交映；见过这里的阡陌交通，车流不息；也曾以凡人之躯，感受过紫海的红尘烟火，人心冷暖。</p>
+<p>但就在我自以为与紫海已融为一体的时候，它突然开始背叛我，疏离我。梦中紫海的空间变得越来越有限，事物的细节变得越来越敷衍；我开始遗忘。紫海的所有地点，所有的人与物，我关于紫海的一切，就好像地图上烧起的一把火，贪婪地在整张纸上蔓延，只留下幸存的细碎纸片，和已然无法复原的灰烬。</p>
+<p>今天这场梦，就是紫海，写给我的诀别书。</p>
+<p>我不愿就这样噙泪醒来。我别无所求，只求任性的紫海，能在我之后的梦中，留下属于它的最后一幅画面：当我从家中阳台的窗外望去，能看见天球西南隅的，流转的月华。</p>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="https://www.wikidot.com/doc" id="wikidot-help-button">说明</a>
+    &nbsp;|
+    <a href="https://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服务条款</a>
+    &nbsp;|
+    <a href="https://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隐私</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">报告错误</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">标记为令人反感的</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">更新 Cookie 设置</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+基于 <a href="https://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    除非特别注明，本页内容采用以下授权方式：
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                <div id="footer-bar">
+  <div>
+     </div>
+  <h2>其它有趣的网站</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://schrijven.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
+            <div class="desc">          
+              Voor teksten, artikelen, verhalen en poëzie
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://scp-wiki-fish.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-fish.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://scp-wiki-fish.wikidot.com">SCP基金会冲浪分部</a></h3>
+            <div class="desc">          
+              渔夫聚集地，大佬度假村
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <div class="desc">          
+              Collaborative e-learning for children
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://darksouls2.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <div class="desc">          
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        点击编辑本页内容。    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        点击显示页面各部分的编辑按钮（如果可能）。 在标题边会出现“编辑”按钮。    </div>
+    <div id="edit-append-button-hovertip">
+        在不编辑全部页面源代码的情况下添加内容。    </div>
+    <div id="history-button-hovertip">
+        查看本页过去是如何沿革的。    </div>
+    <div id="discuss-button-hovertip">
+        若您想要讨论本页内容，这是最简单的方法。    </div>
+    <div id="files-button-hovertip">
+        检视并管理本页附件。    </div>
+    <div id="site-tools-button-hovertip">
+        管理网站的实用工具。    </div>
+    <div id="backlinks-button-hovertip">
+        检视链接至本页或引用本页的页面。    </div>
+    <div id="rename-move-button-hovertip">
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
+    <div id="view-source-button-hovertip">
+        在不编辑的情形下检视维基源代码。    </div>
+    <div id="parent-page-button-hovertip">  
+        检视 / 设定父页面（用以建立浏览足迹与结构化​​配置）。    </div>
+            <div id="abuse-report-button-hovertip">
+            向管理员举报本页有令人反感的内容。        </div>
+        <div id="bug-report-button-hovertip">
+            事情不如预期？看看您可以做些什么。        </div>
+        <div id="wikidot-help-button-hovertip">
+            通用的 Wikidot.com 文件与说明。        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com 服务条款 — 您可以做的事，您不该做的事之类的。        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com 隐私政策。          
+        </div>
+    </div>
+</body>
+</html>

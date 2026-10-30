@@ -1,0 +1,168 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.6.2
+2 info using node@v25.2.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\scpmo\Documents\ChatGPT\github.io\.npmrc
+5 silly config load:file:C:\Users\scpmo\.npmrc
+6 silly config load:file:C:\Users\scpmo\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--ignore-scripts" "--no-audit" "--no-fund" "--cache" ".migration-cache/npm" "--fetch-timeout" "20000" "--fetch-retries" "1" "--maxsockets" "2"
+9 verbose logfile logs-max:10 dir:C:\Users\scpmo\Documents\ChatGPT\github.io\.migration-cache\npm\_logs\2026-10-30T13_09_41_541Z-
+10 verbose logfile C:\Users\scpmo\Documents\ChatGPT\github.io\.migration-cache\npm\_logs\2026-10-30T13_09_41_541Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly fetch manifest linkedom@0.18.12
+15 silly packumentCache full:https://registry.npmjs.org/linkedom cache-miss
+16 http cache https://registry.npmjs.org/linkedom 12ms (cache hit)
+17 silly packumentCache full:https://registry.npmjs.org/linkedom set size:1013516 disposed:false
+18 silly fetch manifest canvas@>= 2
+19 silly packumentCache full:https://registry.npmjs.org/canvas cache-miss
+20 http cache https://registry.npmjs.org/canvas 4ms (cache hit)
+21 silly packumentCache full:https://registry.npmjs.org/canvas set size:353371 disposed:false
+22 silly placeDep ROOT linkedom@0.18.12 OK for:  want: 0.18.12
+23 silly fetch manifest cssom@^0.5.0
+24 silly packumentCache full:https://registry.npmjs.org/cssom cache-miss
+25 silly fetch manifest uhyphen@^0.2.0
+26 silly packumentCache full:https://registry.npmjs.org/uhyphen cache-miss
+27 silly fetch manifest css-select@^5.1.0
+28 silly packumentCache full:https://registry.npmjs.org/css-select cache-miss
+29 silly fetch manifest htmlparser2@^10.0.0
+30 silly packumentCache full:https://registry.npmjs.org/htmlparser2 cache-miss
+31 silly fetch manifest html-escaper@^3.0.3
+32 silly packumentCache full:https://registry.npmjs.org/html-escaper cache-miss
+33 http cache https://registry.npmjs.org/cssom 25ms (cache hit)
+34 silly packumentCache full:https://registry.npmjs.org/cssom set size:42138 disposed:false
+35 http cache https://registry.npmjs.org/css-select 25ms (cache hit)
+36 silly packumentCache full:https://registry.npmjs.org/css-select set size:111202 disposed:false
+37 http cache https://registry.npmjs.org/uhyphen 26ms (cache hit)
+38 silly packumentCache full:https://registry.npmjs.org/uhyphen set size:10719 disposed:false
+39 http cache https://registry.npmjs.org/htmlparser2 27ms (cache hit)
+40 silly packumentCache full:https://registry.npmjs.org/htmlparser2 set size:176895 disposed:false
+41 http fetch GET 200 https://registry.npmjs.org/html-escaper 2527ms (cache miss)
+42 silly packumentCache full:https://registry.npmjs.org/html-escaper set size:undefined disposed:false
+43 silly placeDep ROOT css-select@5.2.2 OK for: linkedom@0.18.12 want: ^5.1.0
+44 silly placeDep ROOT cssom@0.5.0 OK for: linkedom@0.18.12 want: ^0.5.0
+45 silly placeDep ROOT html-escaper@3.0.3 OK for: linkedom@0.18.12 want: ^3.0.3
+46 silly placeDep ROOT htmlparser2@10.1.0 OK for: linkedom@0.18.12 want: ^10.0.0
+47 silly placeDep ROOT uhyphen@0.2.0 OK for: linkedom@0.18.12 want: ^0.2.0
+48 silly fetch manifest boolbase@^1.0.0
+49 silly packumentCache full:https://registry.npmjs.org/boolbase cache-miss
+50 silly fetch manifest css-what@^6.1.0
+51 silly packumentCache full:https://registry.npmjs.org/css-what cache-miss
+52 silly fetch manifest domutils@^3.0.1
+53 silly packumentCache full:https://registry.npmjs.org/domutils cache-miss
+54 silly fetch manifest nth-check@^2.0.1
+55 silly packumentCache full:https://registry.npmjs.org/nth-check cache-miss
+56 silly fetch manifest domhandler@^5.0.2
+57 silly packumentCache full:https://registry.npmjs.org/domhandler cache-miss
+58 silly fetch manifest domutils@^3.2.2
+59 silly packumentCache full:https://registry.npmjs.org/domutils cache-miss
+60 silly fetch manifest entities@^7.0.1
+61 silly packumentCache full:https://registry.npmjs.org/entities cache-miss
+62 silly fetch manifest domhandler@^5.0.3
+63 silly packumentCache full:https://registry.npmjs.org/domhandler cache-miss
+64 silly fetch manifest domelementtype@^2.3.0
+65 silly packumentCache full:https://registry.npmjs.org/domelementtype cache-miss
+66 http fetch GET 200 https://registry.npmjs.org/boolbase 460ms (cache miss)
+67 silly packumentCache full:https://registry.npmjs.org/boolbase set size:undefined disposed:false
+68 http fetch GET 200 https://registry.npmjs.org/domutils 1055ms (cache miss)
+69 silly packumentCache full:https://registry.npmjs.org/domutils set size:undefined disposed:false
+70 http fetch GET 200 https://registry.npmjs.org/css-what 1608ms (cache miss)
+71 silly packumentCache full:https://registry.npmjs.org/css-what set size:undefined disposed:false
+72 http fetch GET 200 https://registry.npmjs.org/nth-check 1654ms (cache miss)
+73 silly packumentCache full:https://registry.npmjs.org/nth-check set size:undefined disposed:false
+74 http fetch GET 200 https://registry.npmjs.org/domhandler 1967ms (cache miss)
+75 silly packumentCache full:https://registry.npmjs.org/domhandler set size:undefined disposed:false
+76 http fetch GET 200 https://registry.npmjs.org/entities 2339ms (cache miss)
+77 silly packumentCache full:https://registry.npmjs.org/entities set size:undefined disposed:false
+78 http fetch GET 200 https://registry.npmjs.org/domutils 2367ms (cache miss)
+79 silly packumentCache full:https://registry.npmjs.org/domutils set size:undefined disposed:false
+80 http fetch GET 200 https://registry.npmjs.org/domhandler 2680ms (cache miss)
+81 silly packumentCache full:https://registry.npmjs.org/domhandler set size:undefined disposed:false
+82 http fetch GET 200 https://registry.npmjs.org/domelementtype 2817ms (cache miss)
+83 silly packumentCache full:https://registry.npmjs.org/domelementtype set size:undefined disposed:false
+84 silly placeDep ROOT boolbase@1.0.0 OK for: css-select@5.2.2 want: ^1.0.0
+85 silly placeDep ROOT css-what@6.2.2 OK for: css-select@5.2.2 want: ^6.1.0
+86 silly placeDep ROOT domhandler@5.0.3 OK for: css-select@5.2.2 want: ^5.0.2
+87 silly placeDep ROOT domutils@3.2.2 OK for: css-select@5.2.2 want: ^3.0.1
+88 silly placeDep ROOT nth-check@2.1.1 OK for: css-select@5.2.2 want: ^2.0.1
+89 silly fetch manifest dom-serializer@^2.0.0
+90 silly packumentCache full:https://registry.npmjs.org/dom-serializer cache-miss
+91 http fetch GET 200 https://registry.npmjs.org/dom-serializer 326ms (cache miss)
+92 silly packumentCache full:https://registry.npmjs.org/dom-serializer set size:undefined disposed:false
+93 silly placeDep ROOT domelementtype@2.3.0 OK for: domhandler@5.0.3 want: ^2.3.0
+94 silly placeDep ROOT dom-serializer@2.0.0 OK for: domutils@3.2.2 want: ^2.0.0
+95 silly fetch manifest entities@^4.2.0
+96 silly packumentCache full:https://registry.npmjs.org/entities cache-miss
+97 http cache https://registry.npmjs.org/entities 4ms (cache hit)
+98 silly packumentCache full:https://registry.npmjs.org/entities set size:110751 disposed:false
+99 silly placeDep ROOT entities@4.5.0 OK for: dom-serializer@2.0.0 want: ^4.2.0
+100 silly placeDep node_modules/htmlparser2 entities@7.0.1 OK for: htmlparser2@10.1.0 want: ^7.0.1
+101 silly reify moves {}
+102 http cache entities@https://registry.npmjs.org/entities/-/entities-4.5.0.tgz 0ms (cache hit)
+103 http cache nth-check@https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz 0ms (cache hit)
+104 http cache dom-serializer@https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz 0ms (cache hit)
+105 http cache domutils@https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz 0ms (cache hit)
+106 http cache domhandler@https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz 0ms (cache hit)
+107 http cache css-what@https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz 0ms (cache hit)
+108 http cache domelementtype@https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz 0ms (cache hit)
+109 http cache boolbase@https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz 0ms (cache hit)
+110 http cache uhyphen@https://registry.npmjs.org/uhyphen/-/uhyphen-0.2.0.tgz 0ms (cache hit)
+111 http cache entities@https://registry.npmjs.org/entities/-/entities-7.0.1.tgz 0ms (cache hit)
+112 http cache htmlparser2@https://registry.npmjs.org/htmlparser2/-/htmlparser2-10.1.0.tgz 0ms (cache hit)
+113 http cache cssom@https://registry.npmjs.org/cssom/-/cssom-0.5.0.tgz 0ms (cache hit)
+114 silly tarball no local data for entities@https://registry.npmjs.org/entities/-/entities-4.5.0.tgz. Extracting by manifest.
+115 http cache html-escaper@https://registry.npmjs.org/html-escaper/-/html-escaper-3.0.3.tgz 0ms (cache hit)
+116 silly tarball no local data for nth-check@https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz. Extracting by manifest.
+117 silly tarball no local data for dom-serializer@https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz. Extracting by manifest.
+118 http cache linkedom@https://registry.npmjs.org/linkedom/-/linkedom-0.18.12.tgz 0ms (cache hit)
+119 silly tarball no local data for domutils@https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz. Extracting by manifest.
+120 http cache css-select@https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz 0ms (cache hit)
+121 silly tarball no local data for domhandler@https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz. Extracting by manifest.
+122 silly tarball no local data for css-what@https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz. Extracting by manifest.
+123 silly tarball no local data for domelementtype@https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz. Extracting by manifest.
+124 silly tarball no local data for boolbase@https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz. Extracting by manifest.
+125 silly tarball no local data for uhyphen@https://registry.npmjs.org/uhyphen/-/uhyphen-0.2.0.tgz. Extracting by manifest.
+126 silly tarball no local data for entities@https://registry.npmjs.org/entities/-/entities-7.0.1.tgz. Extracting by manifest.
+127 silly tarball no local data for htmlparser2@https://registry.npmjs.org/htmlparser2/-/htmlparser2-10.1.0.tgz. Extracting by manifest.
+128 silly tarball no local data for cssom@https://registry.npmjs.org/cssom/-/cssom-0.5.0.tgz. Extracting by manifest.
+129 silly tarball no local data for html-escaper@https://registry.npmjs.org/html-escaper/-/html-escaper-3.0.3.tgz. Extracting by manifest.
+130 silly tarball no local data for linkedom@https://registry.npmjs.org/linkedom/-/linkedom-0.18.12.tgz. Extracting by manifest.
+131 silly tarball no local data for css-select@https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz. Extracting by manifest.
+132 http fetch GET 200 https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz 622ms (cache miss)
+133 http fetch GET 200 https://registry.npmjs.org/entities/-/entities-4.5.0.tgz 751ms (cache miss)
+134 http fetch GET 200 https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz 906ms (cache miss)
+135 http fetch GET 200 https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz 1221ms (cache miss)
+136 http fetch GET 200 https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz 1413ms (cache miss)
+137 http fetch GET 200 https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz 1533ms (cache miss)
+138 http fetch GET 200 https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz 1773ms (cache miss)
+139 http fetch GET 200 https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz 1787ms (cache miss)
+140 http fetch GET 200 https://registry.npmjs.org/uhyphen/-/uhyphen-0.2.0.tgz 2205ms (cache miss)
+141 http fetch GET 200 https://registry.npmjs.org/entities/-/entities-7.0.1.tgz 2425ms (cache miss)
+142 http fetch GET 200 https://registry.npmjs.org/cssom/-/cssom-0.5.0.tgz 2703ms (cache miss)
+143 http fetch GET 200 https://registry.npmjs.org/htmlparser2/-/htmlparser2-10.1.0.tgz 2734ms (cache miss)
+144 http fetch GET 200 https://registry.npmjs.org/html-escaper/-/html-escaper-3.0.3.tgz 2956ms (cache miss)
+145 http fetch GET 200 https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz 3399ms (cache miss)
+146 http fetch GET 200 https://registry.npmjs.org/linkedom/-/linkedom-0.18.12.tgz 3754ms (cache miss)
+147 silly ADD node_modules/entities
+148 silly ADD node_modules/dom-serializer
+149 silly ADD node_modules/domelementtype
+150 silly ADD node_modules/nth-check
+151 silly ADD node_modules/domutils
+152 silly ADD node_modules/domhandler
+153 silly ADD node_modules/css-what
+154 silly ADD node_modules/boolbase
+155 silly ADD node_modules/uhyphen
+156 silly ADD node_modules/htmlparser2
+157 silly ADD node_modules/htmlparser2/node_modules/entities
+158 silly ADD node_modules/html-escaper
+159 silly ADD node_modules/cssom
+160 silly ADD node_modules/css-select
+161 silly ADD node_modules/linkedom
+162 verbose cwd C:\Users\scpmo\Documents\ChatGPT\github.io
+163 verbose os Windows_NT 10.0.26100
+164 verbose node v25.2.0
+165 verbose npm  v11.6.2
+166 verbose exit 0
+167 info ok

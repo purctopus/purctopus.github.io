@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cn" lang="cn">
+
+<head>
+    <title>第一回 · 国中众生相 - 绿帽社</title>
+    
+    
+    
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "greenhat.wikidot.com";
+        WIKIREQUEST.info.siteId = 4600797;
+        WIKIREQUEST.info.siteUnixName = "greenhat";
+        WIKIREQUEST.info.categoryId = 45992866;
+        WIKIREQUEST.info.themeId = 8180194;
+        WIKIREQUEST.info.requestPageName = "gzms:sd-001";
+        OZONE.request.timestamp = 1793365844;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'cn';
+                WIKIREQUEST.info.pageUnixName = "gzms:sd-001";
+        WIKIREQUEST.info.pageId = 1307198614;
+                        WIKIREQUEST.info.lang = "cn";
+        OZONE.lang = "cn";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="cn"/>
+    <script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--theme/base/css/style.css);
+                    @import url(https://greenhat.wdfiles.com/local--theme/sigma-9/style.css);
+            </style>
+    
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/local--iosicon/iosicon_57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/local--iosicon/iosicon_72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/local--iosicon/iosicon.png" />    
+        
+        
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+<style>
+.admins-only, li.admins-only{  display: none; }
+</style>
+<link rel="alternate" type="application/rss+xml" title="Comments for the page &quot;第一回 · 国中众生相&quot;" href="/feed/page/comments-1307198614.xml"/><script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/misc/NewPageHelperModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/forum/ForumCommentsModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/forum/ForumViewThreadModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/forum/ForumViewThreadPostsModule.js"></script>
+<script type="text/javascript" src="https://d3g0gp89917ko0.cloudfront.net/v--c5ce02208cf9/common--modules/js/forum/sub/ForumNewPostFormModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>绿帽社</span></a></h1>
+                
+                    <h2><span>青青子衿，悠悠我心</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="搜索网站" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="搜索"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<ul>
+<li><a href="/archive-center">档案馆</a>
+<ul>
+<li><a href="/greenhat-history">绿帽史</a></li>
+<li><a href="/guozhongmishi">国中秘史</a></li>
+<li><a href="/choujing">丑经</a></li>
+<li><a href="/other-classified-archives-center">其他</a></li>
+</ul>
+</li>
+<li><a href="/columns">专栏</a>
+<ul>
+<li><a href="/zihai-archive">紫海流华</a></li>
+</ul>
+</li>
+<li><a href="/nav:top">进入顶栏</a></li>
+</ul>
+
+
+
+<div style="display : none;">
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">建立账户</a> <span>或</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">登入</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<h1 ><span><span style="font-size:smaller;">创建新页面</span></span></h1>
+
+<div class="new-page-box" style="text-align: center; margin: 1em 0;">
+	<form action="dummy.html" method="get" onsubmit="WIKIDOT.modules.NewPageHelperModule.listeners.create(event);">
+		<input class="text" name="pageName" type="text" size="20" maxlength="128" style="margin: 1px"/>
+				<input type="submit" class="button" value="创建" style="margin: 1px;"/>
+																
+	</form>
+</div>
+
+<p><em><br /></em></p>
+<div class="side-block">
+<ul>
+<li><img src="http://greenhat.wikidot.com/local--files/private-images/home.png" alt="home.png" class="image" /> <strong><a href="/start">绿帽社主页</a></strong></li>
+</ul>
+<ul>
+<li><a href="/tagcloud">标签云</a></li>
+<li><a href="/forum:start">唠嗑区</a></li>
+</ul>
+<p><em><br /></em></p>
+<ul>
+<li><a href="/nav:side">进入侧栏</a></li>
+<li><a href="/_admin">管理</a> - 闲人免进</li>
+<li><a href="http://ifrasite66.wikidot.com">IFRA</a> - 直接进入</li>
+<li><a href="/yiwuzhi">异物志</a> - 嘉中传说</li>
+</ul>
+</div>
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+                        <div id="page-title">
+                            第一回 · 国中众生相
+                        </div>
+                    
+
+                    
+                        <div id="breadcrumbs">
+                            <a href="/archive-center">档案馆 · 璃珠遗影</a> &raquo; <a href="/guozhongmishi">国中秘史</a> &raquo; 第一回 · 国中众生相
+                        </div>
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+<h1 id="toc0"><span>主要人设</span></h1>
+<p><span style="font-size:150%;">管理</span></p>
+<ul>
+<li><a href="/zjs">Administrator-GreenHat</a></li>
+<li><a href="/zjj">Administrator-803</a></li>
+</ul>
+<p><span style="font-size:150%;">主要</span></p>
+<div class="blockquote">
+<p><strong><span style="font-size:120%;"><span style="color: #00a">Dr. Jirui</span></span></strong><br />
+（又名：姬芮/tpx66x66/x66/UP主/鸡蕊）<br />
+03分部的主力军之一，程序员，会JavaScript和Python。图吧基佬，业余UP主。██主义狂热分子，曾经在03分部广场公然举行███思想传播大会。有空的时候喜欢打战地1，三国演义√16，战地3和phigros<sup class="footnoteref"><a id="footnoteref-1" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-1')">1</a></sup>。</p>
+</div>
+<div class="blockquote">
+<p><strong><span style="font-size:120%;"><span style="color: #d71">Isaac D. Socialism</span></span></strong><br />
+（又名：逗比界的神祇/神祇/体委/一好）<br />
+03分部体委，科学家，社会主义者。喜欢组织人员大搞特搞，结识了一堆好朋友。是牛顿和玻尔的狂热崇拜者，曾耗巨资上太空亲自验证万有引力定律。<strong><em><span style="color: #00aa00">于2021/5/28前</span></em></strong><sup class="footnoteref"><a id="footnoteref-2" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-2')">2</a></sup>一直在为推翻C. Monitor的政权而努力斗争。</p>
+</div>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #99cc99">CX-18</span></span></strong><br />
+（又名：陈宇涵/小涵/十八/当心！起大狙了！）<br />
+项目“陈徐之梦”的总负责人之一。<em>经高级部门选定</em>，CX-18被选为03分部吉祥物。什么事都想插一脚，爱添乱。通常情况下，他会以一个<span style="text-decoration: line-through;">憨批</span>的形象出现在众人面前。喜欢███。</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #dddd22">C. Monitor</span></span></strong><br />
+（又名：班长/阳光委员/班长<sup class="footnoteref"><a id="footnoteref-3" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-3')">3</a></sup>/对钱没兴趣）<br />
+03分部<em><strong>前</strong></em><sup class="footnoteref"><a id="footnoteref-4" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-4')">4</a></sup>部长。做事马虎粗糙，<span style="text-decoration: line-through;">在最近的一次数学考试中只得了65分</span>，但是认真起来极其认真，不过没有什么成效。有时会一本正经地胡说八道或者███。</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #7711bb">沈楠桐</span></span></strong><br />
+（又名：██/楠桐/ssr）<br />
+C. Monitor的下属之一，是一个██。很喜欢别人叫他爸爸，遭到很多03分部成员的反对，但屡教不改。其累计收到103条来自3任本分部部长的批评书。[数据删除]<sup class="footnoteref"><a id="footnoteref-5" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-5')">5</a></sup></p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #994400">絮彁</span></span></strong><br />
+（又名：絮哥/sugar/口玄如）<br />
+语言学家，于03分部担任“语认统<sup class="footnoteref"><a id="footnoteref-6" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-6')">6</a></sup>”职位。于2019年9月24日创造出<a class="newpage" href="/kxr-1">KXR-1</a>，随后创造出数以百计的新字，被誉为“当代仓颉”。喜欢打CS:GO，osu还有█████。人缘很好，经常有一大批人去他家做客。</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #dd3300">伟哥</span></span></strong><br />
+（又名：肖小晓/伟█/阿伟/黄炜树/xiao）<br />
+03分部历史学博士，通晓中华上下五千年历史与中世纪世界历史。直率，爱发脾气。王者荣耀中某英雄的荣耀战力曾经上过5000。在2019绿帽社新年联欢晚会中，伟哥与Administrator-803演出了舞台剧《如果早知道███████》，其扮演阿伟。</p>
+</blockquote>
+<p><iframe src="/gzms:sd-001/html/c57bc94b9c42084f8ab3785f3737b1d8bfc9ba9c-1019447985813330659" allowtransparency="true" frameborder="0" class="html-block-iframe"></iframe></p>
+<p><span style="font-size:150%;">伴墨人</span></p>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #ddaadd">[丢失]</span></span></strong><br />
+[于<a href="/z-518">ζ-518事件</a>后丢失]</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #aa55aa">[丢失]</span></span></strong><br />
+[于ζ-518事件后丢失]</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #8866dd">[丢失]</span></span></strong><br />
+[于ζ-518事件后丢失]</p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #aaddee">[丢失]</span></span></strong><br />
+[于ζ-518事件后丢失]</p>
+</blockquote>
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">人员资料备份加载中……</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">备份加载完毕</a></div>
+<div class="collapsible-block-content">
+<blockquote>
+<p>AWD系统提醒您：你确定要打开吗？文件中可能存有一定的模因危害<sup class="footnoteref"><a id="footnoteref-7" href="javascript:;" class="footnoteref" onclick="WIKIDOT.page.utils.scrollToReference('footnote-7')">7</a></sup>。</p>
+</blockquote>
+<blockquote>
+<p><em>忽视</em></p>
+</blockquote>
+<blockquote>
+<p>好的。正在为您打开备份数据。</p>
+</blockquote>
+<p><em><br /></em></p>
+<div class="image-container alignleft"><img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2478347969,3483915862&amp;fm=26&amp;gp=0.jpg" alt="u=2478347969,3483915862&amp;fm=26&amp;gp=0.jpg" class="image" /></div>
+<hr />
+<p style="text-align: center;"><strong>模因锁已解开</strong></p>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #ddaadd">白沁</span></span></strong><br />
+<em>白金之作饰无边</em><br />
+<em>沁人心脾于青天</em></p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #aa55aa">樱野</span></span></strong><br />
+<em>樱树白兮带微粉</em><br />
+<em>野处正适情变迁</em></p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #8866dd">半枝</span></span></strong><br />
+<em>半夜三更雨水间</em><br />
+<em>枝叶寥寥心不偏</em></p>
+</blockquote>
+<blockquote>
+<p><strong><span style="font-size:120%;"><span style="color: #aaddee">沫寒</span></span></strong><br />
+<em>沫影瞬息成泡影</em><br />
+<em>寒霞覆人无狼烟</em></p>
+</blockquote>
+<p><strong><span style="font-size:150%;">这是我们在这里留下的</span></strong></p>
+<p><strong><span style="font-size:200%;">最后的印迹</span></strong></p>
+<p><em><br /></em><br />
+<span style="color: #aa0011"><span style="white-space: pre-wrap;">--结束--</span></span></p>
+</div>
+</div>
+</div>
+<p><em><br /></em></p>
+<h1 id="toc1"><span>重大事件</span></h1>
+<p>[管理员施工中。。。]</p>
+<div class="comments-box">
+		
+	<div class="options" id="comments-options-hidden" style="display: none">
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumCommentsModule.listeners.showComments(event)">显示评论</a> 
+	</div>
+		
+	<div id="thread-container" class="thread-container" style="margin-top: 1em">
+					
+
+
+<script type="text/javascript">
+	WIKIDOT.forumThreadId = 15170971;
+</script>
+
+
+	<div class="options" id="comments-options-shown">
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumCommentsModule.listeners.hideComments(event)" class="btn btn-default btn-small btn-sm">隐藏所有评论</a> 
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.unfoldAll(event)" class="btn btn-default btn-small btn-sm">全部展开</a> 
+		<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.foldAll(event)" class="btn btn-default btn-small btn-sm">全部折叠</a>
+	</div>
+
+<div id="thread-container-posts" style="display: none">
+    
+
+
+
+	
+					
+      
+    <div class="post-container" id="fpc-5575966">
+                      
+		<div class="post" id="post-5575966">
+		<div class="long">
+			<div class="head">
+									<div class="options">
+						<a href="javascript:;" onclick="togglePostFold(event,5575966)" class="btn btn-default btn-small btn-sm">折叠</a>
+					</div>
+								<div class="title" id="post-title-5575966">
+																		没有错！jirui就是我
+															</div>
+				<div class="info">
+					<span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tpx66x66" onclick="WIKIDOT.page.listeners.userInfo(6507937); return false;"  ><img class="small" src="https://www.wikidot.com/avatar.php?userid=6507937&amp;amp;size=small&amp;amp;timestamp=1793365844" alt="tpx66x66" style="background-image:url(https://www.wikidot.com/userkarma.php?u=6507937)"/></a><a href="https://www.wikidot.com/user:info/tpx66x66" onclick="WIKIDOT.page.listeners.userInfo(6507937); return false;" >tpx66x66</a></span> <span class="odate time_1662902683 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">11 Sep 2022 13:24</span>
+														</div>
+			</div>
+			<div class="content" id="post-content-5575966">
+									
+
+<p>1中的东方众速速加我q 1879468972来真实我</p>
+
+							</div>
+
+								
+					
+						<div class="options">
+				
+													<strong><a href="javascript:;" onclick="postReply(event,5575966)" class="btn btn-primary btn-small btn-sm">回复</a></strong> 
+																	<a href="javascript:;" onclick="togglePostOptions(event,5575966)" class="btn btn-default btn-small btn-sm">选项</a>
+							</div>
+									
+			<div id="post-options-5575966" class="options" style="display: none">
+			</div>
+		</div>
+		<div class="short">
+							<a class="options btn btn-default btn-mini btn-xs" href="javascript:;" onclick="togglePostFold(event,5575966)" c>展开</a>
+						<a class="title" href="javascript:;" onclick="togglePostFold(event,5575966)">没有错！jirui就是我</a> 由 <span class="printuser avatarhover"><a href="https://www.wikidot.com/user:info/tpx66x66" onclick="WIKIDOT.page.listeners.userInfo(6507937); return false;"  ><img class="small" src="https://www.wikidot.com/avatar.php?userid=6507937&amp;amp;size=small&amp;amp;timestamp=1793365844" alt="tpx66x66" style="background-image:url(https://www.wikidot.com/userkarma.php?u=6507937)"/></a><a href="https://www.wikidot.com/user:info/tpx66x66" onclick="WIKIDOT.page.listeners.userInfo(6507937); return false;" >tpx66x66</a></span>, <span class="odate time_1662902683 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%7Cagohover">11 Sep 2022 13:24</span>
+		</div>
+	</div>
+ 
+                
+        
+            </div>
+ 
+
+
+
+</div>
+
+        <a href="javascript:;" id="new-post-button" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.newPost(event,null)"
+      style="display:  block ; margin-bottom:1em"
+    >新回复</a>
+
+ 
+
+<div style="display:none" id="post-options-template">
+	<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.showPermalink(event,'%POST_ID%')" class="btn btn-default btn-small btn-sm">永久链接</a>
+			<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.editPost(event,'%POST_ID%')" class="btn btn-default btn-small btn-sm">编辑</a>
+			<a href="javascript:;" onclick="WIKIDOT.modules.ForumViewThreadModule.listeners.deletePost(event,'%POST_ID%')" class="btn btn-danger btn-small btn-sm">删除</a>
+</div>
+	
+			</div>
+	
+	
+	
+</div>
+<div class="footnotes-footer">
+<div class="title">脚注</div>
+<div class="footnote-footer" id="footnote-1"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-1')">1</a>. 一款音乐游戏</div>
+<div class="footnote-footer" id="footnote-2"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-2')">2</a>. 2021年5月28日， 陈哲皓傀儡政权被成功推翻。在Isaac D. Socialism的帮助下，沫寒踏足了C. Monitor的王位。</div>
+<div class="footnote-footer" id="footnote-3"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-3')">3</a>. 这里的“长”念chang的反义词</div>
+<div class="footnote-footer" id="footnote-4"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-4')">4</a>. 曾因多次公然██被举报，最终沦为傀儡部长，后来被Isaac D. Socialism推翻。</div>
+<div class="footnote-footer" id="footnote-5"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-5')">5</a>. 经沈楠桐本人的要求，以下内容不予显示。</div>
+<div class="footnote-footer" id="footnote-6"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-6')">6</a>. 全称“语言认知统一负责人”。</div>
+<div class="footnote-footer" id="footnote-7"><a href="javascript:;" onclick="WIKIDOT.page.utils.scrollToReference('footnoteref-7')">7</a>. 就是可能会暗示你什么有害的东西</div>
+</div>
+
+                    </div>
+
+                    
+
+
+                    
+
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/%E6%96%87%E4%BB%B6%E5%A4%B9#pages">文件夹</a><a href="/system:page-tags/tag/%E6%96%87%E6%A1%88#pages">文案</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="https://www.wikidot.com/doc" id="wikidot-help-button">说明</a>
+    &nbsp;|
+    <a href="https://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">服务条款</a>
+    &nbsp;|
+    <a href="https://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">隐私</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">报告错误</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">标记为令人反感的</a>
+    <span id="consent-box" style="display:none">
+        &nbsp;|
+        <a href="javascript:;"  onclick="window.__cmp('showModal');">更新 Cookie 设置</a>
+    </span>
+
+    <script>
+    if (window["nitroAds"] && window["nitroAds"].loaded) {
+        document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none";
+        } else {
+        document.addEventListener(
+                "nitroAds.loaded",
+                () =>
+                (document.getElementById("consent-box").style.display = window["__tcfapi"] ? "" : "none")
+                );
+    }
+    </script>
+</div>
+基于 <a href="https://www.wikidot.com">Wikidot.com</a>
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    除非特别注明，本页内容采用以下授权方式：
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                <div id="footer-bar">
+  <div>
+     </div>
+  <h2>其它有趣的网站</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://schrijven.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/schrijven.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://schrijven.wikidot.com">www.schrijven.wikidot.com</a></h3>
+            <div class="desc">          
+              Voor teksten, artikelen, verhalen en poëzie
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://scp-wiki-fish.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-fish.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://scp-wiki-fish.wikidot.com">SCP基金会冲浪分部</a></h3>
+            <div class="desc">          
+              渔夫聚集地，大佬度假村
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://samvedna.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/samvedna.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://samvedna.wikidot.com">Samvedna Network</a></h3>
+            <div class="desc">          
+              Collaborative e-learning for children
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="https://darksouls2.wikidot.com">
+              <img class="thumbnail" alt="" src="https://thumbnails.wdfiles.com/thumbnail/site/darksouls2.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="https://darksouls2.wikidot.com">DarkSouls II Wiki</a></h3>
+            <div class="desc">          
+              #1 source of fan provided tips, strategies, FAQs, and information about Dark Souls II
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        点击编辑本页内容。    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        点击显示页面各部分的编辑按钮（如果可能）。 在标题边会出现“编辑”按钮。    </div>
+    <div id="edit-append-button-hovertip">
+        在不编辑全部页面源代码的情况下添加内容。    </div>
+    <div id="history-button-hovertip">
+        查看本页过去是如何沿革的。    </div>
+    <div id="discuss-button-hovertip">
+        若您想要讨论本页内容，这是最简单的方法。    </div>
+    <div id="files-button-hovertip">
+        检视并管理本页附件。    </div>
+    <div id="site-tools-button-hovertip">
+        管理网站的实用工具。    </div>
+    <div id="backlinks-button-hovertip">
+        检视链接至本页或引用本页的页面。    </div>
+    <div id="rename-move-button-hovertip">
+        变更页面名称（及 URL 地址，或许会影响分类）。    </div>
+    <div id="view-source-button-hovertip">
+        在不编辑的情形下检视维基源代码。    </div>
+    <div id="parent-page-button-hovertip">  
+        检视 / 设定父页面（用以建立浏览足迹与结构化​​配置）。    </div>
+            <div id="abuse-report-button-hovertip">
+            向管理员举报本页有令人反感的内容。        </div>
+        <div id="bug-report-button-hovertip">
+            事情不如预期？看看您可以做些什么。        </div>
+        <div id="wikidot-help-button-hovertip">
+            通用的 Wikidot.com 文件与说明。        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Wikidot.com 服务条款 — 您可以做的事，您不该做的事之类的。        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Wikidot.com 隐私政策。          
+        </div>
+    </div>
+</body>
+</html>

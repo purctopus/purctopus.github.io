@@ -1,0 +1,11 @@
+{
+  "name": "greenhat-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate": "node scripts/migrate.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "dependencies": { "linkedom": "0.18.12" }
+}

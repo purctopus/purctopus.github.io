@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url("/greenhat/assets/443f6366b66097951a8f.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url("/greenhat/assets/4cfb199f6cb7aa69c338.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: url("/greenhat/assets/43706f114806aa48f590.ttf") format('truetype');
+}
