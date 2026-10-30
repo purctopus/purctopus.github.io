@@ -1,0 +1,22 @@
+/* Keep the original theme; adapt reading and navigation to static hosting. */
+img, video { max-width: 100%; height: auto; }
+iframe { max-width: 100%; }
+pre { overflow-x: auto; }
+#page-content { overflow-wrap: anywhere; }
+#search-results article { margin: 1.4em 0; border-bottom: 1px solid #ccc; padding-bottom: .8em; }
+#search-results p { color: #ddd; }
+#page-content .yui-content > div[hidden] { display: none !important; }
+@media (max-width: 767px) {
+  #container, #content-wrap { width: auto; min-width: 0; }
+  #header { max-width: 100%; }
+  #header h1 a { font-size: 2em; }
+  #header h2 { font-size: .9em; }
+  #main-content { margin: 1em; padding: 0; }
+  #side-bar { position: static; width: auto; height: auto; margin: 1em; padding: 0; float: none; background: transparent; }
+  #side-bar::after { display: none; }
+  #side-bar .side-block { padding: .5em; }
+  #side-bar ul { display: flex; flex-wrap: wrap; gap: .5em 1em; }
+  #top-bar { right: 0; max-width: 100%; }
+  #search-top-box { top: 5px; right: 5px; }
+  #page-content table { display: block; overflow-x: auto; }
+}

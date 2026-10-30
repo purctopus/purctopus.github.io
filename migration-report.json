@@ -1,0 +1,252 @@
+{
+  "source": "https://greenhat.wikidot.com",
+  "migratedAt": "2026-10-30T13:12:21.914Z",
+  "pages": [
+    {
+      "title": "绿帽社档案馆",
+      "url": "/"
+    },
+    {
+      "title": "紫海流华中心页",
+      "url": "/zihai-archive/"
+    },
+    {
+      "title": "无机质",
+      "url": "/zihai/wujizhi/"
+    },
+    {
+      "title": "三秋录",
+      "url": "/zihai/sector-25919/"
+    },
+    {
+      "title": "信件 · 2021年12月31日",
+      "url": "/zihai/25919/211231/"
+    },
+    {
+      "title": "第一八七回 · 班长巧施连环计 鸡蕊三气颜桓公",
+      "url": "/gzms/187/"
+    },
+    {
+      "title": "第一回 · 国中众生相",
+      "url": "/gzms/sd-001/"
+    },
+    {
+      "title": "国中秘史",
+      "url": "/guozhongmishi/"
+    },
+    {
+      "title": "扇区一 · 阳光带",
+      "url": "/zihai/sector-1/"
+    },
+    {
+      "title": "档案馆 · 璃珠遗影",
+      "url": "/archive-center/"
+    },
+    {
+      "title": "侧栏",
+      "url": "/nav/side/"
+    },
+    {
+      "title": "更新动态",
+      "url": "/updates/"
+    },
+    {
+      "title": "扇区四 · 深渊带",
+      "url": "/zihai/sector-4/"
+    },
+    {
+      "title": "扇区二 · 暮光带",
+      "url": "/zihai/sector-2/"
+    },
+    {
+      "title": "扇区三 · 午夜带",
+      "url": "/zihai/sector-3/"
+    },
+    {
+      "title": "绿帽史",
+      "url": "/greenhat-history/"
+    },
+    {
+      "title": "设定集 · 紫海",
+      "url": "/sheding/zihai/"
+    },
+    {
+      "title": "专栏",
+      "url": "/columns/"
+    },
+    {
+      "title": "1.2 陈徐之梦",
+      "url": "/greenhat-tales-1-2/"
+    },
+    {
+      "title": "1.1 姬芮移山",
+      "url": "/greenhat-tales-1-1/"
+    },
+    {
+      "title": "顶栏",
+      "url": "/nav/top/"
+    },
+    {
+      "title": "故事",
+      "url": "/stories/"
+    },
+    {
+      "title": "X-66军事基地",
+      "url": "/x-66/"
+    },
+    {
+      "title": "档案馆 · 其他归档档案中心页",
+      "url": "/other-classified-archives-center/"
+    },
+    {
+      "title": "绿帽干涉装置（已摧毁）",
+      "url": "/lvmao-ganshe-zhuangzhi/"
+    },
+    {
+      "title": "图像管理",
+      "url": "/private-images/"
+    },
+    {
+      "title": "DDOS!!!",
+      "url": "/ddos/"
+    },
+    {
+      "title": "gtx690战术核显卡",
+      "url": "/gtx690/"
+    },
+    {
+      "title": "看我，厉害吧？",
+      "url": "/z-518/"
+    },
+    {
+      "title": "Administrator-803",
+      "url": "/zjj/"
+    },
+    {
+      "title": "Administrator-GreenHat",
+      "url": "/zjs/"
+    },
+    {
+      "title": "汉对语 - 风",
+      "url": "/wubilian-feng/"
+    },
+    {
+      "title": "标签云",
+      "url": "/tagcloud/"
+    },
+    {
+      "title": "欢迎",
+      "url": "/welcome/"
+    },
+    {
+      "title": "页面大全",
+      "url": "/all-pages/"
+    },
+    {
+      "title": "汉对语文献",
+      "url": "/wubilian/"
+    },
+    {
+      "title": "汉对语介绍",
+      "url": "/wubilian-intro/"
+    }
+  ],
+  "assets": 52,
+  "exclusions": [
+    "search:site",
+    "deleted:pla",
+    "css:global-css",
+    "main:about",
+    "main:layout",
+    "legal:terms-of-use",
+    "home:_template",
+    "help:navigation-bars",
+    "help:creating-pages",
+    "help:templates",
+    "deleted:main:home",
+    "css:_template",
+    "css:_home",
+    "admincss:_template",
+    "forum:thread",
+    "forum:category",
+    "forum:recent-posts",
+    "forum:new-thread",
+    "help:_home",
+    "help:css-themes",
+    "system:page-tags",
+    "system:recent-changes",
+    "system:members",
+    "system:welcome",
+    "system:list-all-pages",
+    "forum:start",
+    "help:quick-reference",
+    "help:first-time-user",
+    "help:using-modules",
+    "admincss:tpx23x17",
+    "legal:_home",
+    "forum/c-7093164/1",
+    "forum/c-7093166",
+    "forum/c-7311453/3",
+    "forum/c-7311452/2",
+    "forum/c-7093165"
+  ],
+  "externalPages": [
+    "https://greenhat.wikidot.com/all-pages/p/2",
+    "https://greenhat.wikidot.com/all-pages/p/3",
+    "https://greenhat.wikidot.com/all-pages/p/4",
+    "https://greenhat.wikidot.com/choujing",
+    "https://greenhat.wikidot.com/ddos/edit/true",
+    "https://greenhat.wikidot.com/deleted:pla",
+    "https://greenhat.wikidot.com/deleted:pla/edit/true",
+    "https://greenhat.wikidot.com/gtx690/edit/true",
+    "https://greenhat.wikidot.com/guozhongmishi/edit/true",
+    "https://greenhat.wikidot.com/gzms:187/edit/true",
+    "https://greenhat.wikidot.com/kxr-1",
+    "https://greenhat.wikidot.com/lvmao-ganshe-zhuangzhi/edit/true",
+    "https://greenhat.wikidot.com/other-classified-archives-center/edit/true",
+    "https://greenhat.wikidot.com/private-images/edit/true",
+    "https://greenhat.wikidot.com/sheding:zihai/edit/true",
+    "https://greenhat.wikidot.com/stories/edit/true",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E4%BA%BA%E8%AE%BE",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E4%BA%BA%E8%AE%BE#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%96%87%E4%BB%B6%E5%A4%B9",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%96%87%E4%BB%B6%E5%A4%B9#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%96%87%E6%A1%88",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%96%87%E6%A1%88#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%B1%89%E5%AF%B9%E8%AF%AD",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E6%B1%89%E5%AF%B9%E8%AF%AD#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%99%BD%E6%A8%B1%E4%BC%B4%E5%A2%A8",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%99%BD%E6%A8%B1%E4%BC%B4%E5%A2%A8#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%9B%AE%E5%BD%95",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%9B%AE%E5%BD%95#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%AE%A1%E7%90%86",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%AE%A1%E7%90%86#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%B4%AB%E6%B5%B7%E6%B5%81%E5%8D%8E",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E7%B4%AB%E6%B5%B7%E6%B5%81%E5%8D%8E#pages",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E8%AF%97%E6%AD%8C",
+    "https://greenhat.wikidot.com/system:page-tags/tag/%E8%AF%97%E6%AD%8C#pages",
+    "https://greenhat.wikidot.com/x-66/edit/true",
+    "https://greenhat.wikidot.com/yiwuzhi",
+    "https://greenhat.wikidot.com/z-518/edit/true",
+    "https://greenhat.wikidot.com/zihai-archive/edit/true",
+    "https://greenhat.wikidot.com/zihai:25919:211231/edit/true",
+    "https://greenhat.wikidot.com/zihai:sector-1/edit/true",
+    "https://greenhat.wikidot.com/zihai:sector-2/edit/true",
+    "https://greenhat.wikidot.com/zihai:sector-25919/edit/true",
+    "https://greenhat.wikidot.com/zihai:sector-3/edit/true",
+    "https://greenhat.wikidot.com/zihai:sector-4/edit/true",
+    "https://greenhat.wikidot.com/zihai:wujizhi/edit/true"
+  ],
+  "failures": [
+    {
+      "type": "asset",
+      "url": "https://www.napyfab.com/ajax-indicators/images/indicator_medium.gif",
+      "error": "Error: HTTP 441"
+    },
+    {
+      "type": "asset",
+      "url": "https://greenhat.wdfiles.com/local--resized-images/lvmao-ganshe-zhuangzhi//medium.jpg",
+      "error": "Error: HTTP 404"
+    }
+  ]
+}
