@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>我的个人主页</title>
+  <style>
+    body {
+      max-width: 680px;
+      margin: 80px auto;
+      padding: 24px;
+      font-family: sans-serif;
+      background: #f6f3ff;
+      color: #302842;
+    }
+    button {
+      padding: 12px 24px;
+      border: 0;
+      border-radius: 12px;
+      background: #7954d5;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>你好，这是我的主页 👋</h1>
+  <p>这里可以放个人介绍、作品和小游戏。</p>
+  <button id="counter">点了 0 次</button>
+
+  <script>
+    let count = 0;
+    document.getElementById("counter").onclick = function () {
+      this.textContent = `点了 ${++count} 次`;
+    };
+  </script>
+</body>
+</html>
